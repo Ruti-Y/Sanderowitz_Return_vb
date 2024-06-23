@@ -1,0 +1,13 @@
+.DS_Store
+.Trashes
+*.vbw
+*.suo
+*.user
+*.csi
+*.exp
+*.lib
+*.lvw
+*.dca
+*.scc
+*.tmp
+Thumbs.db
